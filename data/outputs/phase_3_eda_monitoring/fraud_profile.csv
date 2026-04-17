@@ -1,0 +1,3 @@
+txn_count,avg_amount,median_amount,avg_oldbalanceOrg,avg_newbalanceOrig,avg_oldbalanceDest,avg_newbalanceDest,median_oldbalanceOrg,median_newbalanceOrig,median_oldbalanceDest,median_newbalanceDest,avg_step,median_step,fraud_label
+6354407,178197.05,74684.72,832828.75,855970.25,1.1014209e+06,1.2249256e+06,14069.0,0.0,133311.8,214881.7,243.23566306029815,239.0,Non-Fraud
+8213,1.4679672e+06,441423.44,1.6496676e+06,192392.64,544249.6,1.2797076e+06,438983.44,0.0,0.0,4676.42,368.4138560818215,367.0,Fraud

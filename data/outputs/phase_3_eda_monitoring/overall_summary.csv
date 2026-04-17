@@ -1,0 +1,11 @@
+metric,value
+total_transactions,6362620.0
+total_fraud_transactions,8213.0
+fraud_rate,0.001290820448180152
+total_amount,1144392908800.0
+average_amount,179861.890625
+median_amount,74871.9375
+min_step,1.0
+max_step,743.0
+total_hours,743.0
+total_days_covered,31.0

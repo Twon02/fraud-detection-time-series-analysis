@@ -1,0 +1,9 @@
+metric,value
+true_positives,16.0
+false_positives,0.0
+false_negatives,8197.0
+true_negatives,6354407.0
+precision,1.0
+recall,0.0019481310118105442
+false_positive_rate,0.0
+alert_rate,2.51468734577894e-06

@@ -1,0 +1,3 @@
+split,row_count,fraud_count,min_step,max_step
+fit,6273162,6969,1,632
+test,89458,1244,633,743

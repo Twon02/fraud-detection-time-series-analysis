@@ -1,0 +1,5 @@
+feature_name,what_it_measures,why_it_might_indicate_risk,strictly_past_only,safe_for_modeling
+orig_txn_count_prior,Number of prior transactions by sender,High prior activity may indicate burst behavior or unusually active accounts,True,True
+orig_time_since_prev,Time gap since sender's previous transaction,Very short gaps may indicate rapid transaction bursts,True,True
+orig_amount_vs_prior_avg,Current amount relative to sender's prior average amount,Large deviations from normal transaction size may be suspicious,True,True
+amount_vs_dest_prior_avg,Current amount relative to receiver's prior average amount,Sudden jumps in receiving behavior may indicate suspicious concentration,True,True

@@ -1,0 +1,12 @@
+flag_name,flag_count,flag_rate
+flag_sender_balance_mismatch,5274705,0.8290146197635565
+flag_dest_balance_mismatch,4370114,0.6868418984632116
+flag_dest_balance_zero_before_nonzero_amount,2704382,0.42504219959702133
+flag_dest_is_merchant,2151495,0.3381460781879163
+flag_org_balance_zero_before_nonzero_amount,2102433,0.3304351037780034
+flag_amount_zero,16,2.51468734577894e-06
+flag_amount_negative,0,0.0
+flag_newbalanceDest_negative,0,0.0
+flag_newbalanceOrig_negative,0,0.0
+flag_oldbalanceDest_negative,0,0.0
+flag_oldbalanceOrg_negative,0,0.0
