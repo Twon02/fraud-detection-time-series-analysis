@@ -383,16 +383,6 @@ run_project.py
 
 * * *
 
-## Recommended Next Enhancements
-
-1. Add a strict pre-transaction model variant excluding post-transaction balance fields.
-2. Add precision-recall curves and threshold tradeoff plots.
-3. Add baseline models using only amount and transaction type to quantify feature lift.
-4. Add false-positive and false-negative review tables for the held-out test period.
-5. Build a lightweight dashboard from the saved outputs for portfolio presentation.
-
-* * *
-
 ## Bottom Line
 
 This is a meaningful fraud analytics project because it does more than produce a single good metric. It shows the full logic of a fraud workflow:
@@ -405,3 +395,16 @@ This is a meaningful fraud analytics project because it does more than produce a
 - explain the results clearly
 
 That combination is what gives the project depth.
+
+* * *
+
+## 📬 Contact
+
+**Toan Le**  
+- 📧 Email: [nguyenphutoanle@gmail.com](mailto:nguyenphutoanle@gmail.com?subject=Customer%20Segmentation%20%26%20ROI%20Playbooks%20%28dunnhumby%29%20%F0%9F%93%8A)
+- 💼 LinkedIn: https://www.linkedin.com/in/toanle02/  
+- 🧑‍💻 GitHub: https://github.com/Twon02  
+
+**Questions about this project? Please open an **Issue** in this repo instead of emailing—this keeps discussion transparent and searchable.**
+
+*This project is for educational/portfolio use only — not investment advice.*
