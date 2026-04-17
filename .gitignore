@@ -24,4 +24,6 @@ data/processed/
 *.joblib
 
 # Logs
-*.log
+*.logdata/outputs/phase_3_eda_monitoring/origin_account_summary.csv
+data/outputs/phase_3_eda_monitoring/destination_account_summary.csv
+data/outputs/**/*account_summary.csv
